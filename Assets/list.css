@@ -34,3 +34,76 @@
   max-width: 8px;
   max-height: 6px;
 }
+.listViewItem {
+  background-color: white;
+  margin-left: 78px;
+  display: flex;
+  flex-direction: row;
+  max-width: 1180px;
+  max-height: 100px;
+  align-items: center;
+  text-align: center;
+}
+.listViewItem h5 {
+  font-size: 15px;
+
+  margin-right: 79px;
+}
+.listUserName {
+  margin-top: 85px;
+  max-width: 160px;
+}
+.itemSquare {
+  margin-left: 34px;
+  max-width: 95px;
+  max-height: 38px;
+  border: 1px #686868 solid;
+  text-align: center;
+}
+.itemSquare h5 {
+  margin-top: 10px;
+  font-size: 15px;
+  color: #686868;
+}
+.itemDescription {
+  display: flex;
+  flex-direction: column;
+  max-height: 37px;
+  max-width: 310px;
+  text-align: start;
+  margin-left: 38px;
+}
+.itemDescription h4 {
+  font-size: 18px;
+}
+.itemDescription h5 {
+  font-size: 14px;
+  color: #a4a5a6;
+}
+.date {
+  margin-top: 85px;
+}
+.date h5 {
+  font-size: 15px;
+  color: #707070;
+}
+.ViewLogoContainer {
+  max-width: 35px;
+  max-height: 35px;
+  margin-right: 19px;
+}
+.viewDelete {
+  max-width: 17px;
+  max-height: 18px;
+  margin-right: 27px;
+}
+.viewEdit {
+  max-width: 20px;
+  max-height: 20px;
+  margin-right: 32px;
+}
+.viewShare {
+  max-width: 24px;
+  max-height: 8px;
+  margin-right: 33px;
+}
