@@ -1,0 +1,35 @@
+.dowbar {
+  display: flex;
+  flex-direction: column;
+  max-width: 80px;
+  border-right: 1px gainsboro solid;
+  align-items: center;
+}
+.dowbarMiddle {
+  max-height: 223px;
+  margin-top: 292px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dowbarMiddle div {
+  max-width: 24px;
+  margin-bottom: 40px;
+}
+.homeLogo {
+  max-height: 20px;
+}
+.statusLogo {
+  max-height: 24px;
+}
+.saveLogo {
+  max-height: 24px;
+}
+.configLogo {
+  max-height: 28px;
+}
+.tourLogo {
+  margin-top: 380px;
+  max-width: 24px;
+  max-height: 25px;
+}
