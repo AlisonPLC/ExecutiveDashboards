@@ -1,0 +1,36 @@
+.listHeader {
+  max-width: 1170px;
+  max-height: 32px;
+  display: flex;
+  margin-left: 78px;
+  margin-top: 50px;
+}
+.headerItem {
+  display: flex;
+  font-size: 13px;
+  font-weight: bold;
+  max-width: 130px;
+  align-items: center;
+  text-align: center;
+}
+.dashboardName {
+  margin-left: 165px;
+  max-width: 125px;
+}
+.createdOn {
+  margin-left: 257px;
+  max-width: 86px;
+}
+.who {
+  margin-left: 162px;
+  max-width: 45px;
+}
+.action {
+  margin-left: 100px;
+}
+.headerItem img {
+  margin-left: 10px;
+  margin-bottom: 15px;
+  max-width: 8px;
+  max-height: 6px;
+}

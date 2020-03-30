@@ -1,2 +1,9 @@
 @import "upbars.css";
 @import "downbar.css";
+@import "dashboard.css";
+@import "list.css";
+
+.downbarDashboardContainer {
+  display: flex;
+  flex-direction: row;
+}

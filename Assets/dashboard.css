@@ -1,0 +1,64 @@
+.dashboard {
+  background-color: #f5f6fa;
+  display: flex;
+  flex-direction: column;
+}
+.dashboardPannel {
+  margin-top: 44px;
+  display: flex;
+  flex-direction: row;
+  max-height: 62px;
+}
+.pannelStart {
+  margin-left: 78px;
+  margin-top: 44x;
+}
+.pannelBack {
+  display: flex;
+  flex-direction: row;
+}
+.pannelBack img {
+  max-width: 57px;
+  max-height: 15px;
+}
+.dashboardMenu {
+  display: flex;
+  max-width: 200px;
+}
+.dashboardMenu h2 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #8954ba;
+}
+.dashboardMenu h2 + h2 {
+  font-weight: normal;
+}
+.pannelEnd {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 68px;
+}
+.pannelEndFitter {
+  max-width: 60px;
+}
+.pannelEnd h4 {
+  margin-top: 10px;
+  color: #707070;
+  font-size: 14px;
+}
+.pannelEnd select {
+  margin-left: 15px;
+  border: none;
+  max-width: 242px;
+  height: 39px;
+}
+.pannelEnd img {
+  max-width: 22px;
+  height: 22px;
+  margin-left: 47px;
+}
+.pannelEnd img + img {
+  max-width: 25px;
+  margin-left: 26px;
+}
