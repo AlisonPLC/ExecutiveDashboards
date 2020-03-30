@@ -51,6 +51,7 @@
   margin-right: 79px;
 }
 .listUserName {
+  text-align: start;
   margin-top: 85px;
   max-width: 160px;
 }
@@ -107,4 +108,16 @@
   max-width: 24px;
   max-height: 8px;
   margin-right: 33px;
+}
+.itemSelected {
+  border: 1px #8954ba solid;
+}
+.selected {
+  background-color: #8954ba;
+}
+.selected h5 {
+  color: white;
+}
+.descriptionSelected h4 {
+  color: #8954ba;
 }
